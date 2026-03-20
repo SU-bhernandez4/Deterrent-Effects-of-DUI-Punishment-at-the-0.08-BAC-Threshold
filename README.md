@@ -13,8 +13,9 @@ Our results suggest that crossing the 0.08 BAC threshold and receiving harsher p
 | File | Description |
 |------|-------------|
 | `Deterrent_Effects_DUI.qmd` | Raw Quarto document containing all analysis, code, and written sections |
-| `Deterrent_Effects_DUI.pdf` | Rendered PDF of the full writeup |
-| `Data_Challenge_2.R` | R script with all data cleaning, graphical analysis, and estimation code |
+| `Deterrent_Effects_DUI_writeup.pdf` | Rendered PDF writeup with non-visible code |
+| `Deterrent_Effects_DUI_code.pdf` | Rendered PDF with full code visible |
+| `Presentation.pptx` | Slide deck summarizing the findings |
 | `DWI_Data.rdata` | Dataset of Washington State traffic stops (provided by instructor) |
 
 ---
