@@ -20,17 +20,6 @@ Our results suggest that crossing the 0.08 BAC threshold and receiving harsher p
 
 ---
 
-## How to Run
-
-1. Clone this repository
-2. Open `Deterrent_Effects_DUI.qmd` in RStudio
-3. Make sure the following R packages are installed:
-```r
-install.packages(c("rdrobust", "ggplot2", "fixest", "vtable", "tidyverse", "rio", "rddensity"))
-```
-
----
-
 ## Authors
 
 - Liliya Dimova
