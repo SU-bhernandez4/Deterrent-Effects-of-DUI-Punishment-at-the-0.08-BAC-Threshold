@@ -28,8 +28,6 @@ Our results suggest that crossing the 0.08 BAC threshold and receiving harsher p
 ```r
 install.packages(c("rdrobust", "ggplot2", "fixest", "vtable", "tidyverse", "rio", "rddensity"))
 ```
-4. Place `DWI_Data.rdata` in the same folder as the `.qmd` file
-5. Click **Render** in RStudio to generate the PDF
 
 ---
 
